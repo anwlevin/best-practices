@@ -5,4 +5,4 @@ https://anwlevin.github.io/best-practices/
 
 ### INDEX
 
-- [Bash. Date and time formats](bash-date.md)
+- [Bash. Date and time formats (bash-date.md)](bash-date.md)
