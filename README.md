@@ -1,4 +1,4 @@
-# best-practices
+# Best practices in Computer Science
 
 https://anwlevin.github.io/best-practices/
 
